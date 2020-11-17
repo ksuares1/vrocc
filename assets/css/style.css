@@ -8,11 +8,15 @@
 
 .mission-statement{
     font-weight: bold;
-    color:gray;
+    color: #d3d3d3;
 }
 
 .logo{
     width:10%; 
     height:15%;
     /* margin: auto; */
+}
+
+about-mission{
+    text-align: center;
 }
