@@ -10,3 +10,9 @@
     font-weight: bold;
     color:gray;
 }
+
+.logo{
+    width:10%; 
+    height:15%;
+    /* margin: auto; */
+}
