@@ -9,7 +9,7 @@
 mission-title{
     color: #d3d3d3; 
     }
-    
+
 .mission-statement{
     font-weight: bold;
     color:black;
@@ -25,4 +25,8 @@ mission-title{
 
 about-mission{
     text-align: center;
+}
+
+.news-1{
+    color:white;
 }
