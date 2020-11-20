@@ -6,10 +6,16 @@
     font-weight: bold;
 }
 
+mission-title{
+    color: #d3d3d3; 
+    }
+    
 .mission-statement{
     font-weight: bold;
-    color: #d3d3d3;
+    color:black;
 }
+
+
 
 .logo{
     width:10%; 
