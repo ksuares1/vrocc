@@ -33,9 +33,10 @@ about-mission{
 
 .fa {
   padding: 20px;
-  font-size: 100%;
+  font-size: 125%;
   width: 15px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  color: white;
 }
