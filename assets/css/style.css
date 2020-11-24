@@ -70,4 +70,11 @@ about-mission{
 }
 .jumbotron{
     background-color:aliceblue;
+} 
+
+.carousel-inner{
+    width: 1600px;
+    height:1100px;
 }
+
+  
