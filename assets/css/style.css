@@ -102,3 +102,7 @@ about-mission{
   .video{
      text-align: center;
   }
+
+  .card-body{
+      background-color: white;
+  }
