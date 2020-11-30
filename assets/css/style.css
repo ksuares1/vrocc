@@ -110,3 +110,11 @@ about-mission{
   .contact-section{
       text-align: center;
   }
+
+  .carousel-image {
+    margin:0 auto;
+    max-width:1100px;
+  }
+  /* .carousel-caption{
+      text-align: center;
+  } */
