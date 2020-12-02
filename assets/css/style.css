@@ -111,12 +111,20 @@ about-mission{
       text-align: center;
   }
 
+  
   .carousel-image {
     margin:0 auto;
     max-width:1100px;
   }
-  /* .carousel-caption{
+  .carousel-caption{
       text-align: center;
-  } */
+      color:black;
+  }
 
-  
+  .events-carousel{
+      color:white; 
+  }
+
+  .classes-video{
+      text-align:center
+  }
