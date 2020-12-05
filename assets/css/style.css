@@ -145,6 +145,7 @@ about-mission{
       text-align:center;
   }
 
-  /* .lfund{
-      background-color: azure;
-  } */
+.blog-cards{
+    color:black; 
+    font-weight: bold;
+}
