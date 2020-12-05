@@ -164,3 +164,15 @@ home-headlines{
     margin: auto;
      width:65%;
 }
+
+.founder-name{
+    text-align: center;
+}
+
+.quote-v{
+    text-align: center;
+}
+
+.veronica-quote{
+    font-style:italic;
+}
