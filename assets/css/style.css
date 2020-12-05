@@ -116,9 +116,12 @@ about-mission{
     margin:0 auto;
     max-width:1100px;
   }
-  .carousel-caption{
+  .index-carousel-caption{
       text-align: center;
       color:black;
+      background-color: white;
+      margin: auto;
+       width:65%;
   }
 
   .events-carousel{
