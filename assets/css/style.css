@@ -149,3 +149,11 @@ about-mission{
     color:black; 
     font-weight: bold;
 }
+
+.about-carousel{
+    color:black;
+    background-color: white;
+    margin: auto;
+     width:65%;
+    /* height:25%; */
+}
