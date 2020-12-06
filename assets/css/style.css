@@ -188,3 +188,17 @@ home-headlines{
 .elotes{
     text-align: center;
 }
+
+.contact-jumbo{
+    background-image: url("../img/ICA\ Performance-110.jpg");
+     background-size: cover;
+    text-align: center;
+       /* width:65%; */
+}
+
+.contact-text{
+    color:black;
+    background-color:white;
+    margin: auto;
+      width:65%;
+}
