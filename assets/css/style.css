@@ -204,8 +204,11 @@ home-headlines{
 }
 
 .footer{
-    text-align:center;
+    /* text-align:center;  */
+    height:100px;
+    width:100%;
     background-color: grey;
+    margin: auto;
     /* position: fixed; */
 }
 
@@ -226,4 +229,13 @@ home-headlines{
 .donate-nav{
     background-color: lightblue;
 
+}
+
+.footer-icons{
+    float:right;
+    margin:0;
+}
+
+.footer-in{
+    background-color: #d3d3d3;
 }
