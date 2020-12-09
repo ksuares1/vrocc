@@ -209,6 +209,16 @@ home-headlines{
     /* position: fixed; */
 }
 
+.footer-copy{
+    color:white;
+}
+
 .footer-link{
-    color:white; 
+    color:lightblue
+
+}
+
+
+.footer-location{
+    color:white;
 }
