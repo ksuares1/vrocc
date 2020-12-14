@@ -248,3 +248,8 @@ home-headlines{
 .events-btn{
     text-align: center;
 }
+
+.gmail-calendar{
+    text-align: center;
+    /* float:right; */
+}
