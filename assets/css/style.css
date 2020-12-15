@@ -65,9 +65,7 @@ about-mission{
     text-align: center;
 }
 
-.card-title{
-    font-weight: bold;
-}
+
 .jumbotron{
     background-color:aliceblue;
 } 
@@ -252,4 +250,8 @@ home-headlines{
 .gmail-calendar{
     text-align: center;
     /* float:right; */
+}
+
+.news-section{
+    font-family: 'Raleway', sans-serif;
 }
