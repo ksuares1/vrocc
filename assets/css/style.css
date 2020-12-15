@@ -299,13 +299,3 @@ home-headlines{
 .live{
     height:18rem;
 }
-
-
-
-.index-footer{
-    /* text-align:center;  */
-    height:50%;
-    width:115%;
-    background-color: grey;
-    margin: auto;
-}
