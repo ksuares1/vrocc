@@ -271,11 +271,14 @@ home-headlines{
     font-family: 'Raleway', sans-serif;
 }
 
-.support-section{
+.support-section, .classes-headline{
     font-family: 'Raleway', sans-serif;
-
 }
 
+.classes-vrocc, .class-description, .dance-headline{
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+}
 .radio-broadcast{
     height:32rem;
 }
