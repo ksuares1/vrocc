@@ -42,8 +42,18 @@ about-mission{
   color: white;
 }
 
-.history{
+.history, .events-text{
     text-align: center;
+    font-family: 'Raleway', sans-serif;
+
+}
+.lrf-fund{
+    font-family: 'Raleway', sans-serif;
+}
+
+.classes-text{
+    font-family: 'Raleway', sans-serif;
+    font-size:45px;
 }
 
 .history-statement{
