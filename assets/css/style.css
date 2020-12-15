@@ -21,6 +21,10 @@ mission-title{
 .logo{
     width:10%; 
     height:15%;
+    margin:auto;
+    /* border:none; */
+    position: relative;
+    
     /* margin: auto; */
 }
 
