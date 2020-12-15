@@ -1,5 +1,6 @@
 #testimonials{
     text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
 
 .testimonial-name{
@@ -254,4 +255,25 @@ home-headlines{
 
 .news-section{
     font-family: 'Raleway', sans-serif;
+}
+
+.support-section{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.radio-broadcast{
+    height:32rem;
+}
+
+.lrf, .community-outreach{
+    height:32rem; 
+}
+
+.performance-pic{
+    height:14rem;
+}
+
+.performance-card{
+    height:15.5rem;
 }
