@@ -16,7 +16,13 @@ mission-title{
     color:black;
 }
 
-
+/* .carousel-bg{
+    background-color:lightgray;
+    opacity:0.5;
+    color:black;
+    width:75%;
+    height:25%;
+} */
 
 .logo{
     width:10%; 
@@ -49,7 +55,7 @@ about-mission{
 .history, .events-text{
     text-align: center;
     font-family: 'Raleway', sans-serif;
-
+    font-size: 45px;
 }
 .lrf-fund{
     font-family: 'Raleway', sans-serif;
