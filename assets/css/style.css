@@ -344,3 +344,12 @@ home-headlines{
     border-color: #17a2b8;
     font-family: 'Raleway', sans-serif;
 }
+
+.events{
+  background-color:white;
+  opacity:0.5;
+  color:black;
+  width:35%;
+  height:20%;
+  margin:auto;
+  }
