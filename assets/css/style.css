@@ -323,3 +323,8 @@ home-headlines{
 .next-arrow, button-next{
     color:black;
 }
+
+.volunteer-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
