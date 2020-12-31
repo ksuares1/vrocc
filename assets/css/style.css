@@ -245,7 +245,7 @@ home-headlines{
     color:white;
 }
 
-.donate-nav{
+.donate-btn{
     background-color: lightblue;
     border-radius: 8px;
 
@@ -327,4 +327,20 @@ home-headlines{
 .volunteer-image{
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.involved-header{
+    color:white; 
+    font-weight: bold;
+}
+
+.classes-header-text{
+    color:white;
+}
+
+.classes-btn{
+    border-radius: 8px;
+    background-color:#17a2b8;
+    border-color: #17a2b8;
+    font-family: 'Raleway', sans-serif;
 }
