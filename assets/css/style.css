@@ -318,3 +318,8 @@ home-headlines{
     height:55%;
     width:85%;
 }
+
+
+.next-arrow, button-next{
+    color:black;
+}
