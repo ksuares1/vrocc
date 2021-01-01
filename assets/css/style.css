@@ -354,6 +354,9 @@ home-headlines{
   margin:auto;
   }
 
-  .donate-card{
+  .donate-card, .member-card, .volunteer-card{
       text-align: center;
+      border-radius: 5px;
   }
+
+ 
