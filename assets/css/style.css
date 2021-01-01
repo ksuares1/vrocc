@@ -16,13 +16,6 @@ mission-title{
     color:black;
 }
 
-/* .carousel-bg{
-    background-color:lightgray;
-    opacity:0.5;
-    color:black;
-    width:75%;
-    height:25%;
-} */
 
 .logo{
     width:10%; 
@@ -359,4 +352,11 @@ home-headlines{
       border-radius: 5px;
   }
 
+  .support-text{
+      text-align:center;
+      font-family: 'Raleway', sans-serif;
+  }
  
+  .member-pic{
+    height:20rem;
+  }
