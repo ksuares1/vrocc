@@ -371,7 +371,7 @@ home-headlines{
   }
 
   .community-pic{
-      height:11rem;
+      height:15rem;
   }
 
   .lf-card{
@@ -386,7 +386,6 @@ home-headlines{
       margin:0 auto 0 auto; 
       /* border:5px solid white;  */
       padding:5px;
-      /* border-radius: 50%; */
       height:14rem;
        margin-bottom:13px;
   }
