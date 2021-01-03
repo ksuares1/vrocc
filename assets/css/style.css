@@ -379,3 +379,14 @@ home-headlines{
       width:9rem;
       text-align:center;
   }
+
+
+  .img-responsive-img-circle{
+      max-width:250px;
+      margin:0 auto 0 auto; 
+      /* border:5px solid white;  */
+      padding:5px;
+      /* border-radius: 50%; */
+      height:14rem;
+       margin-bottom:13px;
+  }
