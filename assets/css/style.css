@@ -334,8 +334,9 @@ home-headlines{
 
 .classes-btn{
     border-radius: 8px;
-    background-color:#17a2b8;
-    border-color: #17a2b8;
+    background-color:white;
+    border-color: white;
+    color:black;
     font-family: 'Raleway', sans-serif;
 }
 
