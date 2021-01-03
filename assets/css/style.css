@@ -268,6 +268,7 @@ home-headlines{
 
 .news-section{
     font-family: 'Raleway', sans-serif;
+    text-align: center;
 }
 
 .support-section, .classes-headline{
@@ -374,5 +375,7 @@ home-headlines{
   }
 
   .lf-card{
-      height:15rem;
+      height:8rem;
+      width:9rem;
+      text-align:center;
   }
