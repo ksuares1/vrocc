@@ -3,6 +3,11 @@
     font-family: 'Raleway', sans-serif;
 }
 
+/* .nav-link{
+    display: inline-block;
+     list-style-type: none; 
+} */
+
 .testimonial-name{
     font-weight: bold;
 }
@@ -23,6 +28,7 @@ mission-title{
     margin:auto;
     /* border:none; */
     position: relative;
+    overflow:hidden;
     
     /* margin: auto; */
 }
