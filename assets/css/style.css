@@ -386,7 +386,7 @@ home-headlines{
       height:15rem;
   }
 
-  .community-text{
+  .community-text, .orale-text, .relief-text{
       font-size: 13px;
       font-family: 'Raleway', sans-serif;
   }
