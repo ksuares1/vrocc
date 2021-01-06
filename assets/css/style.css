@@ -371,7 +371,7 @@ home-headlines{
   }
  
   .member-pic{
-    height:20rem;
+    height:15rem;
   }
 
   .member-jumbotext{
@@ -415,3 +415,9 @@ home-headlines{
   .teachable-link{
       text-align: center;
   }
+
+
+  .membership-qrcode{
+      text-align: center;
+  }
+
